@@ -4,12 +4,12 @@
 
 In this challenge, i need to develop an CRUD API of my tasks.
 
-[] I should be able to create a new task.
-[] I should be able to get all tasks.
-[] I should be able to update a task by Id.
-[] I should be able to delete a task by Id.
-[] I should be able to mark a task by Id as completed.
-[] I should be able to import my tasks in a CSV file.
+- [ ] I should be able to create a new task.
+- [ ] I should be able to get all tasks.
+- [ ] I should be able to update a task by Id.
+- [ ] I should be able to delete a task by Id.
+- [ ] I should be able to mark a task by Id as completed.
+- [ ] I should be able to import my tasks in a CSV file.
 
 ## Business Rules
 
